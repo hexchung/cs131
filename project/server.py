@@ -5,7 +5,7 @@ import sys
 import re
 import time
 
-API_KEY = "AIzaSyDpdC2yFMTfIbLSWIlKu4Fs5bHUL9XBkCE"
+API_KEY = ***
 
 SERVERS = { "Goloman" : { "port" : 11745,
                           "neighbors" : ["Hands", "Holiday", "Wilkes"] },
